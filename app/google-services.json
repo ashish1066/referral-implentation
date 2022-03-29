@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "416340325844",
+    "project_id": "flyy-testing",
+    "storage_bucket": "flyy-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416340325844:android:7efe7e4b2619a870815241",
+        "android_client_info": {
+          "package_name": "com.carselonadaily.carselonacustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCDXjNCb6-KlDbNLhASsdOMvYuJfH4cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416340325844:android:0d01bbee2fe64ac1815241",
+        "android_client_info": {
+          "package_name": "com.example.flyy_plugin_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCDXjNCb6-KlDbNLhASsdOMvYuJfH4cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416340325844:android:8cf46d79b82688ee815241",
+        "android_client_info": {
+          "package_name": "com.example.flyy_scratch_test.flyy_scratch_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCDXjNCb6-KlDbNLhASsdOMvYuJfH4cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416340325844:android:6507959928be22bd815241",
+        "android_client_info": {
+          "package_name": "com.example.flyydemoflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCDXjNCb6-KlDbNLhASsdOMvYuJfH4cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416340325844:android:4d0c75fd47583fde815241",
+        "android_client_info": {
+          "package_name": "com.roidtechnologies.appbrowzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCDXjNCb6-KlDbNLhASsdOMvYuJfH4cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416340325844:android:5d44ade3de7fbd2f815241",
+        "android_client_info": {
+          "package_name": "com.theflyy.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCDXjNCb6-KlDbNLhASsdOMvYuJfH4cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416340325844-caprg0a9npv7sfoa27ec8ov1ucsqg9jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

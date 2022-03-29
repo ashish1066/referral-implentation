@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="carselonadaily.carselonacustomer">
+
+    <application
+        android:allowBackup="false"
+        android:appCategory="audio"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FlyyDemo">
+        <activity
+            android:name="com.carselonadaily.carselonacustomer.SetReferralActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.carselonadaily.carselonacustomer.VerifyReferralActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.carselonadaily.carselonacustomer.LoginActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.gms.car.application"
+            android:resource="@xml/automotive_app_desc" />
+
+        <service
+            android:name="com.carselonadaily.carselonacustomer.FcmReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="com.carselonadaily.carselonacustomer.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

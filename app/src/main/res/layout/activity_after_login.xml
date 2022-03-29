@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".LoginActivity">
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:gravity="center"
+      android:orientation="vertical"
+      >
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="INVITE AND EARN"
+          android:background="@drawable/button_bg"
+          android:onClick="navigateToOffers"
+          />
+      <View
+          android:layout_height="10dp"
+          android:layout_width="1dp"/>
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Referral History"
+          android:background="@drawable/button_bg"
+          android:onClick="navigateToHistory"
+          />
+      <View
+          android:layout_height="10dp"
+          android:layout_width="1dp"/>
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Referral Count"
+          android:background="@drawable/button_bg"
+          android:onClick="showRererralCount"
+          />
+      <View
+          android:layout_height="10dp"
+          android:layout_width="1dp"/>
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Set Referral"
+          android:background="@drawable/button_bg"
+          android:onClick="navigateToSetReferral"
+          />
+      <View
+          android:layout_height="10dp"
+          android:layout_width="1dp"/>
+      <Button
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="Verify"
+          android:background="@drawable/button_bg"
+          android:onClick="navigateToVerifyReferral"
+          />
+  </LinearLayout>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|bottom"
+        app:tint="@null"
+        android:src="@drawable/rewards"
+        app:fabSize="normal"
+        android:scaleType="center"
+        android:contentDescription="@string/submit"
+        android:layout_margin="16dp"/>
+</FrameLayout>
